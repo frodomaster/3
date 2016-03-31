@@ -1,0 +1,610 @@
+#EXTM3U
+
+
+
+#EXTINF:-1,[COLOR yellow] --  FRODO MALAYSIAN TV -- [/COLOR]
+http://www.youtube.com/
+
+#EXTINF:-1 tvg-id=“TV1” tvg-name=“TV1” tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/101_100.png" group-title="MALAYSIAN TV CHANNEL",TV1
+http://rtm-live.glueapi.io/smil:rtm-ch001.smil/chunklist_b974000_sleng.m3u8
+
+#EXTINF:-1 tvg-id=“TV2” tvg-name=“TV2” tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/102_100.png" group-title="MALAYSIAN TV CHANNEL",TV2
+http://rtm-live.glueapi.io/smil:ch002.smil/chunklist_b1064000_sleng.m3u8
+
+#EXTINF:-1 tvg-id=“TV3” tvg-name=“TV3” tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/103_100.png" group-title="MALAYSIAN TV CHANNEL",TV3
+http://www.layarku.tv/media/tv3web6.m3u8
+
+#EXTINF:-1 frodo77 tvg-id=“NTV7” tvg-name=“NTV7" tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/107_100.png" group-title="MALAYSIAN TV CHANNEL",NTV7
+http://ntv7liveios-i.akamaihd.net/hls/live/205902/ios/ntv7live/master.m3u8
+
+#EXTINF:-1 frodo77 tvg-id=“8TV” tvg-name=“8TV” tvg-logo="8TV.png" group-title="MALAYSIAN TV CHANNEL",8TV
+http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8
+
+#EXTINF:-1  tvg-id=“TV9” tvg-name=“TV9” tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/119_100.png" group-title="MALAYSIAN TV CHANNEL",TV9
+http://www.layarku.tv/media/tv9web6.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-id=“ASTRO AWANI” tvg-name=“ASTRO_AWANI” tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/501_100.png" group-title="NEWS CHANNEL",ASTRO AWANI
+http://playback01.aotg-video.astro.com.my/AWANI/master.m3u8
+
+#EXTINF:-1 tvg-id=“ASTRO WARNA” tvg-name=“ASTRO_WARNA” tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/132_100.png" group-title="ASTRO CHANNEL PREMIUM ONLY",ASTRO WARNA
+http://192.168.222.182:5000/live/132_warna_pf1/playlist.m3u8
+
+#EXTINF:-1 tvg-id=“ASTRO RIA” tvg-name=“ASTRO_RIA” tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/104_100.png" group-title="ASTRO CHANNEL PREMIUM ONLY",ASTRO RIA
+http://www.layarku.tv/media/riaweb6.m3u8
+
+#EXTINF:-1 tvg-id=“ASTRO OASIS” tvg-name=“ASTRO_OASIS” tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/106_100.png" group-title="ASTRO CHANNEL PREMIUM ONLY",ASTRO OASIS
+http://www.layarku.tv/media/oasweb6.m3u8
+
+#EXTINF:-1 tvg-id=“ASTRO PRIMA” tvg-name=“ASTRO_PRIMA” tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/105_100.png" group-title="ASTRO CHANNEL PREMIUM ONLY",ASTRO PRIMA
+http://www.youtube.com/
+
+#EXTINF:-1 tvg-id=“ASTRO CITRA” tvg-name=“ASTRO_CITRA” tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/131_100.png" group-title="ASTRO CHANNEL PREMIUM ONLY",ASTRO CITRA
+http://www.youtube.com/
+
+#EXTINF:-1 tvg-id=“ASTRO BELLA” tvg-name=“ASTRO_BELLA” tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/133_100.png" group-title="ASTRO CHANNEL PREMIUM ONLY",ASTRO BELLA
+http://www.youtube.com/
+
+#EXTINF:-1 tvg-id=“AL HIJRAH” tvg-name=“AL_HIJRAH” tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/114_100.png" group-title="MALAYSIAN TV CHANNEL",AL HIJRAH
+http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:tvah_hypptv.smil/playlist.m3u8
+
+#EXTINF:-1, Astro AEC
+http://go.layarku.tv/aec.m3u8
+
+
+#EXTINF:-1,[COLOR yellow] ## MERO 26 MAC 2016   ##[/COLOR]
+http://0.81.5.0:1224
+
+#EXTINF:-1,[COLOR red]--- STILL WORKING ---[/COLOR]
+http://0.70.6.0:12347766
+
+#EXTINF:-1,[COLOR green]--- TEST CHANNELS ---[/COLOR]
+http://0.70.6.0:12347766
+
+#EXTINF:-1,[COLOR green]--- MOVIES 1 CHANNELS ---[/COLOR]
+http://0.70.6.0:12347766
+
+#EXTINF:-1,[COLOR green]--- MOVIES 2 CHANNELS ---[/COLOR]
+http://0.70.6.0:12347766
+#EXTINF:-1,[COLOR red]-----------------------------------[/COLOR]
+http://0.70.6.0:12347766
+
+
+#EXTINF:-1 group-title=”Malay”,AL-HIJRAH HD
+http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:tvah_hypptv.smil/playlist.m3u8
+
+
+#EXTINF:-1 group-title=”Malay”,GO Shop
+http://playback01.aotg-video.astro.com.my/AOTGHLS/master_GOSHOP.m3u8
+
+#EXTINF:-1 group-title=”Malay”,MARA TV
+http://stream2.1malaysiaiptv.com:1935/mylive/smil:maratv_all.smil/playlist.m3u8
+
+
+#EXTINF:-1 group-title=”Malay”,AWANI
+http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer6.m3u8
+#EXTINF:-1 group-title=”Malay”,AWANI2
+http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer5.m3u8
+#EXTINF:-1 group-title=”Malay”,AWANI3
+http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer4.m3u8
+
+
+#EXTINF:-1 group-title=”Malay”,BERNAMA TV (STUCK)
+http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/playlist.m3u8
+#EXTINF:-1 group-title=”Malay”,BERNAMA TV 2 (STUCK)
+http://stream2.1malaysiaiptv.com:1935/mylive/smil:bernama2_all.smil/media.m3u8
+
+#EXTINF:-1 group-title=”Malay”,ASTRO ARENA (DEAD)
+http://penang.layarku.tv/edge/149_330_live/chunklist_w968005433.m3u8
+
+#EXTINF:-1,[COLOR green]--- KOREA CHANNELS ---[/COLOR]
+http://0.70.6.0:12347766
+
+
+#EXTINF:-1 group-title=”English”,Arirang
+http://worldlive-ios.arirang.co.kr/arirang/arirangtvworldios.mp4.m3u8
+#EXTINF:-1,Arirang (BACKUP)
+http://worldlive.arirang.co.kr/cdnlive-hls/arirangwlive/_definst_/liveevent/tvworld4.m3u8
+#EXTINF:-1,Arirang SD
+http://worldlive-ios.arirang.co.kr/cdnlive-hls/arirangwlive/_definst_/liveevent/tvworld1.m3u8
+
+#EXTINF:-1,KBS World
+rtmp://118.97.183.196/jhos//kbs
+
+
+
+
+
+#EXTINF:-1,[COLOR magenta] ### ARAB CHANNEL ###[/COLOR]
+http://www.youtube.com/
+
+#EXTINF:-1,MECCA
+rtmp://makkah1live.itworkscdn.net/makkah2live/ playpath=sunnatv swfUrl=http://itworks-me.net/makkah2live/jwplayer.flash.swf pageUrl=http://itworks-me.net/makkah2live/
+#EXTINF:-1,Makkah
+http://46.245.160.224/mekke/mekke/chunklist_w1640568201.m3u8
+#EXTINF:-1,Makkah Live
+http://iphone-streaming.ustream.tv/ustreamVideo/17904315/streams/live/playlist.m3u8
+#EXTINF:-1,MADINA
+http://46.245.160.224/medine/medine/gmswf.m3u8
+#EXTINF:-1,Peace TV
+rtmp://peace.fms.visionip.tv/live//b2b-peace_usa-live-25f-4x3-sdh_1
+
+#EXTINF:-1,Echorouk TV
+http://live.echoroukonline.com/live/EchoroukTV/playlist.m3u8
+#EXTINF:-1,Dubai TV
+http://dmivll.mangomolo.com/dubaitv/smil:dubaitv.smil/chunklist_b1200000.m3u8
+#EXTINF:-1,Al-Baghdadia
+http://albaghdadiahls-i.akamaihd.net/hls/live/221008/albaghdadiaIOS2/master.m3u8
+
+
+
+
+#EXTINF:-1,[COLOR yellow] --  MVO INDONESIA TV -- [/COLOR]
+http://www.youtube.com/
+
+#EXTINF:-1 tvg-id=“KOMPAS TV” tvg-name=“KOMPAS_TV” tvg-logo="KOMPAS_TV.png" group-title="INDONESIAN TV CHANNEL",KOMPAS TV
+rtmp://202.137.11.52:1935/jakarta/offair.sdp
+#EXTINF:-1 tvg-id=“INDOSIAR” tvg-name=“INDOSIAR” tvg-logo="INDOSIAR.png" group-title="INDONESIAN TV CHANNEL",INDOSIAR
+http://livestreaming.production.liputan6.static6.com/tv/indosiarstream300.m3u8
+#EXTINF:-1 tvg-id=“SCTV” tvg-name=“SCTV” tvg-logo="SCTV.png" group-title="INDONESIAN TV CHANNEL",SCTV
+http://livestreaming.production.liputan6.static6.com/tv/sctvstream300.m3u8
+#EXTINF:-1 tvg-id=“TV ONE” tvg-name=“TV_ONE” tvg-logo="TV_ONE.png" group-title="INDONESIAN TV CHANNEL",TV ONE
+rtmp://202.129.216.27/tvone/tvone1
+#EXTINF:-1 tvg-id=“METRO TV” tvg-name=“METRO_TV” tvg-logo="METRO_TV.png" group-title="INDONESIAN TV CHANNEL",METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1519868740_b1300000_sleng.m3u8
+#EXTINF:-1,TIC 
+http://gcasialive-i.akamaihd.net/hls/live/218243/TIC-HLS-stream/04.m3u8
+#EXTINF:-1,O Channel
+http://livestreaming.production.liputan6.static6.com/tv/ochannelstream300.m3u8
+#EXTINF:-1,CELEBES TV
+rtmp://118.97.183.196/jhos//celebestv
+#EXTINF:-1 tvg-id=“TVRI” tvg-name=“TVRI” tvg-logo="TVRI.png" group-title="INDONESIAN TV CHANNEL",TVRI
+rtmp://118.97.183.196/jhos//tvedukasi
+#EXTINF:-1,Bali TV
+rtmp://118.97.183.196/jhos//balitv
+#EXTINF:-1,JTV
+rtmp://118.97.183.196/jhos//jtv
+
+#EXTINF:-1,[COLOR yellow] --  MVO INTERNATIONAL TV -- [/COLOR]
+http://www.youtube.com/
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“DISCOVERY CHANNEL - IND” tvg-name=“DISCOVERY_CHANNEL_-_IND” tvg-logo="DISCOVERY_CHANNEL.png" group-title="EDUCATION CHANNEL",DISCOVERY CHANNEL
+http://167.114.102.27/live/FK1Mw7NafCZi9xUs0IUVqQ/1459100137/a490ae75a3ec2acf16c9f592e889eb4c.m3u8
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“HISTORY CHANNEL” tvg-name=“HISTORY_CHANNEL_-_IND” tvg-logo="HISTORY_CHANNEL.png" group-title="EDUCATION CHANNEL",HISTORY CHANNEL
+http://167.114.102.27/live/FOmpJXamfostHWN1MLc06A/1459100554/d4a4950b7b7267417aa0b9733f30b6fe.m3u8
+
+#EXTINF:-1,[COLOR yellow] --  MVO SPORT TV -- [/COLOR]
+http://www.youtube.com/
+#EXTINF:-1 tvg-id=“ASTRO SUPERSPORT 1” tvg-name=“ASTRO_SUPERSPORT 1” tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/810_100.png" group-title="ASTRO CHANNEL",ASTRO SUPERSPORT 1
+http://erol74y7la.servep2p.com/mHyifxGiDv/assp1/playlist.m3u8
+
+#EXTINF:-1 tvg-id=“ASTRO SUPERSPORT 2” tvg-name=“ASTRO_SUPERSPORT 1” tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/811_100.png" group-title="ASTRO CHANNEL",ASTRO SUPERSPORT 2
+http://erol74y7la.servep2p.com/mHyifxGiDv/assp2/playlist.m3u8
+
+#EXTINF:-1 tvg-id=“ASTRO SUPERSPORT 3” tvg-name=“ASTRO_SUPERSPORT 1” tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/816_100.png" group-title="ASTRO CHANNEL",ASTRO SUPERSPORT 3
+http://erol74y7la.servep2p.com/mHyifxGiDv/assp3/playlist.m3u8
+
+ 
+#EXTINF:-1,[COLOR green]--- CARTOON CHANNEL ---[/COLOR]
+http://0.0.6.0:1234
+
+
+#EXTINF:-1,ANIPLUS (Malay Subs)
+http://118.97.183.222:1935/discover/aniplus/chunklist_w698076622.m3u8
+#EXTINF:-1,ANIPLUS (BACKUP) (Malay Subs)
+rtmp://118.97.183.196/jhos//aniplus
+
+#EXTINF:-1 group-title=”English”,CARTOON NETWORK
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
+
+#EXTINF:-1,Al Jazeera Kids
+http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8
+
+ 
+#EXTINF:-1,[COLOR green]--- ENGLISH NEWS ---[/COLOR]
+http://0.0.6.0:1234
+
+#EXTINF:-1 tvg-id=”cbsnnews.us” group-title=”English”,CBSN NEWS
+http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
+#EXTINF:-1 group-title=”English”,London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+#EXTINF:-1 tvg-id=”Floridach.us” group-title=”English”,Florida CH
+http://webcasting.thefloridachannel.org/live/tvweb1/playlist.m3u8
+#EXTINF:-1 group-title=”English”,GLOBAL
+https://glblvestu-f.akamaihd.net/i/glblvPSTu_1@80128/master.m3u8?__b__=900&hdnea=ip=99.18.68.202~st=1434307348~exp=1434307948~acl=/i/*~id=5a91003f-0e87-4f31-b475-5beb4de69407~hmac=8011c2346009544656a3195d1e9e03e511efc6523dab9644debf3692f630fe77
+#EXTINF:-1 tvg-id=”abcnews.com” group-title=”English”,ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+#EXTINF:-1 tvg-id=”Nhk.jp” group-title=”English”,NHK World
+http://web-cache.stream.ne.jp/www11/nhkworld-tv/global/222714/live.m3u8
+#EXTINF:-1 group-title=”English”,CPAC
+http://bcliveuniv-lh.akamaihd.net/i/cpac1eng2014_01@119330/index_2000_av-p.m3u8
+#EXTINF:-1 group-title=”English”,BLOOMBERG US
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
+#EXTINF:-1 group-title=”English”,BLOOMBERG US(BACKUP)
+http://live.bltvios.com.edgesuite.net/tv/us/master.m3u8
+#EXTINF:-1,ALAZEERA ENGLISH
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
+#EXTINF:-1,ALAZEERA (Documentary)
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+#EXTINF:-1,EuroNews
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/en_vidan750_rtp.sdp
+#EXTINF:-1,EuroNews (BACKUP)
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/en_vidan350_rtp.sdp
+#EXTINF:-1,NHK WORLD
+http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
+#EXTINF:-1,NHK WORLD (BACKUP)
+http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_900.m3u8
+#EXTINF:-1,F24 
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1,DW (Asia)
+http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
+#EXTINF:-1,DW (USA)
+http://www.metafilegenerator.de/DWelle/tv-northamerica/ios/master.m3u8
+#EXTINF:-1,DW (Middle East)
+http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
+#EXTINF:-1,DW (Latino America)
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+#EXTINF:-1,WFTV (USA)
+http://bcoveliveios-i.akamaihd.net/hls/live/207141/268012959001/WFTV_EVENTLIVE1/WFTV_EVENTLIVE1_800.m3u8
+#EXTINF:-1,abc NEWS
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+
+
+
+
+
+
+#EXTINF:-1,[COLOR blue]--- ENGLISH CHANNELS ---[/COLOR]
+
+#EXTINF:-1,TWiT
+http://hls.cdn.flosoft.biz/flosoft/mp4:twitStream_360/playlist.m3u8
+#EXTINF:-1,Fashion TV
+rtmp://118.97.183.196/jhos//fashiontv
+#EXTINF:-1,Australia Network
+rtmp://118.97.183.196/jhos//aplus
+#EXTINF:-1,LiTV (Malay Subs)
+rtmp://118.97.183.196/jhos//litv
+
+
+
+#EXTINF:-1,[COLOR green]--- ENGLISH 2 CHANNELS ---[/COLOR]
+http://0.70.6.0:12347766
+
+#EXTINF:-1 group-title=”English”,GLOBAL Toronto
+https://glblvestu-f.akamaihd.net/i/glblvestu_1@78149/master.m3u8?__b__=900&hdnea=ip=99.18.68.202~st=1434303944~exp=1434304544~acl=/i/*~id=3f0edb02-c4e5-4596-8950-4331b8ce1baf~hmac=4acbecb511f7c3beaf085123ab9097c7a6acbd5d857fd4cefbfdfb733b666f57
+
+#EXTINF:-1 group-title=”English”,UFO Channel
+http://veetle.com/index.php/hls/streamMbrfast/5570083766031_/stream.m3u8
+#EXTINF:-1 group-title=”English”,World Fashion
+http://btv-net.mediacdn.ru/TVB7/wfhdeu/playlist.m3u8
+
+#EXTINF:-1 group-title=”English”,NASA TV (HQ)
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=”English”,NASA TV
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_700_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title=”English”,At The Drive-In
+http://veetle.com/index.php/hls/streamMbrfast/5408d7749bc24_/stream.m3u8
+
+#EXTINF:-1 group-title=”English”,Poker Central
+http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
+#EXTINF:-1 tvg-id=”0490? group-title=”English” tvg-logo=”es1.png”,Eurosport 1 EN
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+
+#EXTINF:-1 group-title=”English”,NFL Network
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
+
+#EXTINF:-1,[COLOR green]--- PAC12 Channel ---[/COLOR]
+http://0.70.6.0:12347766
+
+#EXTINF:-1 group-title=”English”,Pac 12 Network National HD
+http://xrxs.net/video/live-p12netw-2328.m3u8
+#EXTINF:-1 group-title=”English”,Pac 12 Network National
+http://xrxs.net/video/live-p12netw-1164.m3u8
+#EXTINF:-1 group-title=”English”,Pac 12 Washington
+http://xrxs.net/video/live-p12wash-1164.m3u8
+#EXTINF:-1 group-title=”English”,Pac 12 Washington HD
+http://xrxs.net/video/live-p12wash-4728.m3u8
+#EXTINF:-1 group-title=”English”,Pac 12 Network Los Angeles
+http://xrxs.net/video/live-p12losa-1164.m3u8
+#EXTINF:-1 group-title=”English”,Pac 12 Network Los Angeles HD
+http://xrxs.net/video/live-p12losa-2328.m3u8
+#EXTINF:-1 group-title=”English”,Pac 12 Network Arizona
+http://xrxs.net/video/live-p12ariz-1164.m3u8
+#EXTINF:-1 group-title=”English”,Pac 12 Network Arizona HD
+http://xrxs.net/video/live-p12ariz-2328.m3u8
+#EXTINF:-1 group-title=”English”,Pac 12 Network Oregon
+http://xrxs.net/video/live-p12oreg-1164.m3u8
+#EXTINF:-1 group-title=”English”,Pac 12 Network Oregon HD
+http://xrxs.net/video/live-p12oreg-2328.m3u8
+#EXTINF:-1 group-title=”English”,Pac 12 Network Bay Area
+http://xrxs.net/video/live-p12baya-1164.m3u8
+#EXTINF:-1 group-title=”English”,Pac 12 Network Bay Area HD
+http://xrxs.net/video/live-p12baya-2328.m3u8
+#EXTINF:-1 group-title=”English”,Pac 12 Network Moutain
+http://xrxs.net/video/live-p12moun-1164.m3u8
+#EXTINF:-1 group-title=”English”,Pac 12 Network Moutain HD
+http://xrxs.net/video/live-p12moun-2328.m3u8
+
+#EXTINF:-1,[COLOR green]--- USA BASKET ---[/COLOR]
+http://0.70.6.0:12347766
+
+#EXTINF:-1 group-title=”English”,USA-BASKET UNI.(Arizona)
+http://xrxs.net/video/live-p12ariz-1164.m3u8
+#EXTINF:-1 group-title=”English”,USA-BASKET UNI.(Los Angeles)
+http://xrxs.net/video/live-p12losa-1164.m3u8
+#EXTINF:-1 group-title=”English”,USA-BASKET UNI.(Moutain)
+http://xrxs.net/video/live-p12moun-1164.m3u8
+#EXTINF:-1 group-title=”English”,USA-BASKET UNI.(Oregon)
+http://xrxs.net/video/live-p12oreg-1164.m3u8
+
+
+
+#EXTINF:-1,[COLOR green]--- SPORTS CHANNELS ---[/COLOR]
+http://0.0.6.0:12347
+
+#EXTINF:-1 group-title=”English”,FIGHT Sport
+rtmp://118.97.183.196/jhos//fight
+
+
+
+#EXTINF:-1,BT SPORT 1 HD
+http://02e4.vp9.tv/chn/btsu1/v.m3u8
+#EXTINF:-1,BT SPORT 2 HD
+http://02e4.vp9.tv/chn/btsu2/v.m3u8
+
+
+#EXTINF:-1 group-title=”English”,Sky Sports 1
+http://169.45.89.106:1935/app/skysports1lsh/playlist.m3u8
+#EXTINF:-1 group-title=”English”,Sky Sports 2
+http://169.45.89.106:1935/app/skysports2lsh/playlist.m3u8
+#EXTINF:-1 group-title=”English”,Sky Sports 4
+http://169.45.89.106:1935/app/skysports4lsh/playlist.m3u8
+#EXTINF:-1 group-title=”English”,Sky Sports 5
+http://169.45.89.106:1935/app/skysports5lsh/playlist.m3u8
+
+
+#EXTINF:-1,SKY Sports 5
+http://80.243.189.26:8081/sportshd/sky5/index.m3u8
+#EXTINF:-1,SKY Sports 5 (2)
+http://144.76.3.83/sky_sports5gb.m3u8
+
+#EXTINF:0,FOX SPORTS AU 1 HD
+http://162.248.6.122:8080
+#EXTINF:0,FOX SPORTS AU 2 HD
+http://162.248.6.122:8081
+
+
+
+#EXTINF:-1,[COLOR green]--- OTHER SPORTS ---[/COLOR]
+http://0.0.6.0:1234766
+
+ #EXTINF:0,Arena Sport 1
+ http://169.45.89.106:1935/app/arhd1lsh58/playlist.m3u8
+ #EXTINF:0,Arena Sport 2
+ http://169.45.89.106:1935/app/arhd2lsh/playlist.m3u8
+ #EXTINF:0,Arena Sport 3
+ http://169.45.89.106:1935/app/arhd3lsh58/playlist.m3u8
+ #EXTINF:0,Arena Sport 4
+ http://169.45.89.106:1935/app/arhd4lsh/playlist.m3u8
+
+
+#EXTINF:-1,beIN Sports 1 HD
+ http://169.45.89.106:1935/app/bein1frlsh58/playlist.m3u8
+ #EXTINF:-1,beIN Sports 2 HD
+ http://169.45.89.106:1935/app/bein2frlsh/playlist.m3u8
+ #EXTINF:-1,beIN Sports 3 HD
+ http://169.45.89.106:1935/app/bein3frlsh/playlist.m3u8
+
+ 
+#EXTINF:-1,SPORTS (DUB)
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/chunklist_b1200000_DVR.m3u8
+#EXTINF:-1,SPORTS (Sharjah)
+rtmp://livestreaming.itworkscdn.net/smc4sportslive/smc4tv
+#EXTINF:-1,SPORTS PRO (ARAB)
+http://intigral_live-lh.akamaihd.net/i/DPS3SPLNSRXSHB150515_1@129126/index_1200_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,EURO SPORTS (FR) HD
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
+
+
+
+ 
+ 
+ 
+#EXTINF:-1,[COLOR green]--- OTHER CHANNELS ---[/COLOR]
+http://0.0.6.0:1234766
+ 
+#EXTINF:-1,M6TV
+https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/six_ter_hls_aes/six_ter_hls_aes_856.m3u8
+ 
+ 
+ 
+ 
+#EXTINF:-1,[COLOR green]--- VEVO MUSIC ---[/COLOR]
+http://0.70.6.0:12347766
+
+#EXTINF:-1,Vevo 1 
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+#EXTINF:-1,Vevo 1 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:-1,Vevo 2 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:-1,Vevo 3 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+
+ 
+ 
+#EXTINF:-1,[COLOR green]--- MUSIC CHANNELS ---[/COLOR]
+http://0.70.6.0:12347766
+ 
+#EXTINF:0,HITS ALL THE HITS 24/7
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
+#EXTINF:0,FLOW RAP AND R&B NONSTOP
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/appleman.m3u8
+#EXTINF:0,NASHVILLE THE BEST COUNTRY 24/7
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/appleman.m3u8
+
+ 
+ 
+ 
+#EXTINF:-1,[COLOR yellow] ## RADIO STREAMING ## [/COLOR]
+http://www.youtube.com/
+
+
+#EXTINF:-1,[COLOR=cyan]HOT FM (DOWN)[/COLOR]
+http://astro2.rastream.com/hotfm?type=.flv
+
+#EXTINF:-1,ERA FM
+http://astro2.rastream.com/era?type=.flv
+#EXTINF:-1,SURIA FM
+http://starrfm.rastream.com/starrfm-suria?type=.flv
+#EXTINF:-1,SINAR FM
+http://astro2.rastream.com/sinar?type=.flv
+#EXTINF:-1,FLY FM
+http://7439.live.streamtheworld.com/FLYFMAAC?type=.flv
+#EXTINF:-1,HITZ FM
+http://astro1.rastream.com/hitz?type=.flv
+
+#EXTINF:-1,XFRESH FM
+http://audri.rastream.com/amp-xfm_audri?type=.flv&_=0.7508268072269857
+#EXTINF:-1,THR GEGAR
+http://astro3.rastream.com/gegar?type=.flv
+#EXTINF:-1,MUZIK FM
+http://69.197.60.122:8000/;stream.mp3
+#EXTINF:-1,IKIM FM
+http://50.7.96.210:8285/;stream.mp3:21
+#EXTINF:-1,NASYID FM
+http://radio.nasyidfm.com.my:8000/;stream.mp3
+#EXTINF:-1,BEST104 FM
+http://69.197.60.122:8000/;stream.mp3
+
+#EXTINF:-1,MIX FM
+http://astro2.rastream.com/mix?type=.flv
+#EXTINF:-1,LITE FM
+http://astro1.rastream.com/lite?type=.flv
+#EXTINF:-1,MY FM
+http://astro1.rastream.com/myfm?type=.flv
+
+#EXTINF:-1,THR RAAGA FM
+http://astro3.rastream.com/raaga?type=.flv
+
+#EXTINF:-1,SARAWAK FM
+http://124.82.221.149:8000/;stream.mp3
+#EXTINF:-1,WAI FM (SARAWAK)
+http://124.82.221.133:8000/;listen.mp3
+#EXTINF:-1,RED FM (SARAWAK)
+http://124.82.221.149:8000/;listen.mp3
+#EXTINF:-1,PAHANG FM
+http://115.133.145.203:8000/;stream.mp3
+#EXTINF:-1,KELANTAN FM
+http://72.20.10.34:8000/;stream.mp3
+#EXTINF:-1,PERLIS FM
+http://198.154.106.102:8453/;stream.mp3
+
+#EXTINF:-1,RIA 89.7FM (SINGAPORE)
+http://mediacorp.rastream.com/897fm?type=.mp3/;stream.mp3
+#EXTINF:-1,WARNA 94.2FM (SINGAPORE)
+http://mediacorp.rastream.com/942fm?type=.mp3/;stream.mp3
+
+#EXTINF:-1,BAPAKKU FM
+http://radio.bapakku.fm:8000/;stream.mp3
+ 
+ 
+ 
+
+ 
+ 
+ #EXTINF:-1,[COLOR green]--- CHINESE CHANNELS ---[/COLOR]
+http://0.70.6.0:12347766
+
+#EXTINF:-1,American Chinese
+http://ktv008.cdnak.ds.kylintv.net/nlds/kylin/snvn/as/live/snvn_4.m3u8
+
+#EXTINF:-1,China Film
+http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/chinamovie/as/live/chinamovie_4.m3u8
+
+#EXTINF:-1,Kirin live
+http://ktv015.cdnak.ds.kylintv.net/nlds/kylin/kylinlive/as/live/kylinlive_4.m3u8
+#EXTINF:-1,Kirin Arts
+http://ktv033.cdnak.ds.kylintv.net/nlds/kylin/varietyhd/as/live/varietyhd_4.m3u8
+#EXTINF:-1,Kirin children
+http://ktv041.cdnak.ds.kylintv.net/nlds/kylin/kids/as/live/kids_4.m3u8
+#EXTINF:-1,Kirin children
+http://ktv041.cdnak.ds.kylintv.net/nlds/kylin/kids/as/live/kids_4.m3u8
+#EXTINF:-1,Kirin fashion
+http://ktv029.cdnak.ds.kylintv.net/nlds/kylin/leisure/as/live/leisure_4.m3u8
+#EXTINF:-1,Kunlun theater
+http://ktv009.cdnak.ds.kylintv.net/nlds/kylin/kunlunhd/as/live/kunlunhd_4.m3u8
+
+
+
+#EXTINF:-1,Travel Channel
+http://ktv040.cdnak.ds.kylintv.net/nlds/kylin/traveltv/as/live/traveltv_4.m3u8
+#EXTINF:-1,Southern TV
+http://ktv051.cdnak.ds.kylintv.net/nlds/kylin/tvs/as/live/tvs_4.m3u8
+#EXTINF:-1,Xiamen TV
+http://ktv010.cdnak.ds.kylintv.net/nlds/kylin/xmtv/as/live/xmtv_4.m3u8
+#EXTINF:-1,Hunan International
+http://ktv045.cdnak.ds.kylintv.net/nlds/kylin/huntv/as/live/huntv_4.m3u8
+#EXTINF:-1,Henan International
+http://ktv015.cdnak.ds.kylintv.net/nlds/kylin/henantv/as/live/henantv_4.m3u8
+
+#EXTINF:-1,Tianjin International
+http://ktv045.cdnak.ds.kylintv.net/nlds/kylin/tjtv/as/live/tjtv_4.m3u8
+#EXTINF:-1,Anhui International
+http://ktv009.cdnak.ds.kylintv.net/nlds/kylin/ahtv/as/live/ahtv_4.m3u8
+#EXTINF:-1,Chongqing International
+http://ktv027.cdnak.ds.kylintv.net/nlds/kylin/cqtvi/as/live/cqtvi_4.m3u8
+#EXTINF:-1,First Financial
+http://ktv009.cdnak.ds.kylintv.net/nlds/kylin/cbn/as/live/cbn_4.m3u8
+#EXTINF:-1,Sichuan International
+http://ktv039.cdnak.ds.kylintv.net/nlds/kylin/sctv/as/live/sctv_4.m3u8
+#EXTINF:-1,Shandong International
+http://ktv045.cdnak.ds.kylintv.net/nlds/kylin/sdtvi/as/live/sdtvi_4.m3u8
+
+#EXTINF:-1,Phoenix IT
+http://ktv005.cdnak.ds.kylintv.net/nlds/kylin/pxinhd/as/live/pxinhd_4.m3u8
+#EXTINF:-1,Phoenix Hong Kong
+http://ktv039.cdnak.ds.kylintv.net/nlds/kylin/pxhkus/as/live/pxhkus_4.m3u8
+#EXTINF:-1,Phoenix Americas
+http://ktv029.cdnak.ds.kylintv.net/nlds/kylin/pxna/as/live/pxna_4.m3u8
+
+#EXTINF:-1,Chinese TV1
+http://ktv008.cdnak.ds.kylintv.net/nlds/kylin/hyds2/as/live/hyds2_4.m3u8
+#EXTINF:-1,Chinese TV2
+http://ktv026.cdnak.ds.kylintv.net/nlds/kylin/cathaytv/as/live/cathaytv_4.m3u8
+
+#EXTINF:-1,The Hong Kong and Taiwan
+http://ktv002.cdnak.ds.kylintv.net/nlds/kylin/asiatv/as/live/asiatv_4.m3u8
+#EXTINF:-1,Air classroom
+http://ktv039.cdnak.ds.kylintv.net/nlds/kylin/clcchannel/as/live/clcchannel_4.m3u8
+
+#EXTINF:-1,Yangtze River Theatre
+http://ktv042.cdnak.ds.kylintv.net/nlds/kylin/yangtse/as/live/yangtse_4.m3u8
+#EXTINF:-1,Tianjin TV
+http://ktv041.cdnak.ds.kylintv.net/nlds/kylin/tjtvhd/as/live/tjtvhd_4.m3u8
+#EXTINF:-1,Zhejiang TV
+http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/zhejtvhd/as/live/zhejtvhd_4.m3u8
+#EXTINF:-1,Shandong TV
+http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/sdtvhd/as/live/sdtvhd_4.m3u8
+#EXTINF:-1,Beijing TV
+http://ktv026.cdnllnwnl.ds.kylintv.net/nlds/kylin/btv/as/live/btv_4.m3u8
+#EXTINF:-1,Eastern Sure
+http://ktv051.cdnak.ds.kylintv.net/nlds/kylin/etyoyo/as/live/etyoyo_4.m3u8
+#EXTINF:-1,TTV America
+http://ktv042.cdnak.ds.kylintv.net/nlds/kylin/ttv/as/live/ttv_4.m3u8
+#EXTINF:-1,ICN International TV
+http://ktv032.cdnak.ds.kylintv.net/nlds/kylin/iavc/as/live/iavc_4.m3u8
+#EXTINF:-1,Eastern TV
+http://ktv032.cdnak.ds.kylintv.net/nlds/kylin/etgbl/as/live/etgbl_4.m3u8
+#EXTINF:-1,Love
+http://ktv033.cdnak.ds.kylintv.net/nlds/kylin/daai/as/live/daai_4.m3u8
+#EXTINF:-1,Room TV
+http://ktv027.cdnak.ds.kylintv.net/nlds/kylin/bltv/as/live/bltv_4.m3u8
+
+#EXTINF:-1,Good News 2
+http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/gdtv2/as/live/gdtv2_4.m3u8
+#EXTINF:-1,China Tibetan TV
+http://ktv033.cdnak.ds.kylintv.net/nlds/kylin/hztv/as/live/hztv_4.m3u8
+
